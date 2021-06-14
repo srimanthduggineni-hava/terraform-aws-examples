@@ -1,1 +1,1 @@
-SCRIPTS_DIR=03-instance-with-multiple-network
+SCRIPTS_DIR=04-instance-with-loadbalancer
