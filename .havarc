@@ -1,1 +1,1 @@
-SCRIPTS_DIR=02-instance-with-volume
+SCRIPTS_DIR=03-instance-with-multiple-network
