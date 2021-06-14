@@ -1,1 +1,1 @@
-SCRIPTS_DIR=04-instance-with-loadbalancer
+SCRIPTS_DIR=05-autoscaling-group
