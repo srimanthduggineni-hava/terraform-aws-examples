@@ -1,1 +1,1 @@
-SCRIPTS_DIR=01-sample-instance
+SCRIPTS_DIR=02-instance-with-volume
